@@ -43,4 +43,4 @@
 
 ---
 
-These guidelines ensure a smooth workflow, respect for all contributors, and steady project progress.
+These guidelines ensures a smooth workflow, respect for all contributors, and steady project progress.
